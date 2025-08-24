@@ -1,4 +1,6 @@
-# SplitKaro SDE Submission
+# FairSplit
+
+A REST API Implementation of the core functionality of Splitwise.
 
 ## Project Setup
 ---
